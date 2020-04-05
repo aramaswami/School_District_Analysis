@@ -1,7 +1,7 @@
 # School_District_Analysis
 I have included the following .ipynb files for the exercise presented in this module:
-- PyCitySchools integrated (with all code in one cell) and showing segments (code segments for specific analyses in different cells)
-- PyCitySchools_Challenge integrated and showing segments.
+- PyCitySchools in two versions: (i) integrated (with all code in one cell); and (ii) showing segments (code segments for specific analyses in different cells)
+- PyCitySchools_Challenge in two versions: (i) integrated; and (ii) showing segments.
 
 The challenge requires the exclusoion of 9th grade math and reading scores. i used the .loc and np.nan operators to select the rows that correspond to that grade and set the value to NaN. This changed various aspects of the school district's summary results, as I've described below.
 

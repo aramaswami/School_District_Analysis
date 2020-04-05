@@ -5,7 +5,7 @@ I have included the following .ipynb files for the exercise presented in this mo
 
 The challenge requires the exclusoion of 9th grade math and reading scores. i used the .loc and np.nan operators to select the rows that correspond to that grade and set the value to NaN. This changed various aspects of the school district's summary results, as I've described below.
 
-#### NOTE: The per_school summary and spending_summary tables generate correctly in my notebook but for some reason the display is not teh same way in github. The code is correct as far as I can tell.
+#### NOTE: The per_school summary and spending_summary tables generate correctly in my notebook but for some reason the display is not the same way in github. The code is correct as far as I can tell.
 
 
 Following are my responses to assignment questions about how excluding 9th grade impact results across school- and district-level analyses. Please note that the 'showing_segments" versions show how each table varies due to teh exclusion.
